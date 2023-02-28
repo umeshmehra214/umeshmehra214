@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmehra214&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmehra214" /> </p>
 
-- 🌱 I’m currently learning **RectJs, NodeJs**
+- 🌱 I’m currently learning **RectJs, Django**
 
 - **A B.-Tech Computer Engineering Student with Basic Knowledge in Computer and Full Stack Web Development Looking For A Growth Oriented And Challenging Carrer.**
 
