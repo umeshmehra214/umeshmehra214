@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmehra214&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmehra214" /> </p>
 
-- 🌱 I’m currently learning **RectJs, Django**
+**I have been curious and fascinated by computers since childhood. This curiosity drove me to pursue a B.Tech in Computer Science and Engineering.**
 
-- **A B.-Tech Computer Engineering Student with Basic Knowledge in Computer and Full Stack Web Development Looking For A Growth Oriented And Challenging Carrer.**
+**I have learned Full-Stack Web Development. So far, I have gathered a lot of technical skills, some of which are HTML, CSS, JavaScript, MySql, Python, Django, ReactJs. I have also got hands-on experience in all of them by working on various projects and assignments.**
 
-- 📫 How to reach me **umeshmehra214@gmail.com**
+**Apart from coding, I enjoy playing cricket, dancing and listening to music.**
+
+**If you would like to connect, reach out to me at umeshmehra214@gmail.com or drop me a message on LinkedIn.-> https://www.linkedin.com/in/umeshmehra214/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
