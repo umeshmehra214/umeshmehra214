@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Mehra</h1>
 <h3 align="center">"A Passionate Full-Stack Developer From India"</h3>
+
 <h3>Profile Summary</h3>
 <p>Self-motivated Web Developer with high level of experience working on multiple projects. Passionate and hardworking
 with penchant for meeting deadlines. Interested in role with company promoting best practices and offering diverse
@@ -7,7 +8,7 @@ customer projects. Enthusiastic and Eager to contribute to team success through 
 and training in skill. Motivated to learn ,grow and excel in industry.</p>
 
 [![](https://visitcount.itsvg.in/api?id=umeshmehra214&icon=5&color=3)](https://visitcount.itsvg.in)
-<h3>Tech Stack🧑🏼‍💻</h3>
+<h3>Technical Skills🧑🏼‍💻</h3>
 <h4>Programming Languages :-</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -46,7 +47,7 @@ and training in skill. Motivated to learn ,grow and excel in industry.</p>
 
 **If you would like to connect, reach out to me at umeshmehra214@gmail.com or drop me a message on LinkedIn.-> https://www.linkedin.com/in/umeshmehra214/**
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :-
 ![](https://github-readme-stats.vercel.app/api?username=umeshmehra214&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umeshmehra214&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshmehra214&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -54,6 +55,8 @@ and training in skill. Motivated to learn ,grow and excel in industry.</p>
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<h2>Show your support 🌈</h2>
+<p>Be sure to drop a 🌟 if you like the project!</p>
+<br><br>
+<h4 align="center">Made by UmEsh with ❤ and TypeScript</h4>
 
